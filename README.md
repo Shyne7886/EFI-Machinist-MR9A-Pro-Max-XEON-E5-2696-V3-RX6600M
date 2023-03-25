@@ -1,0 +1,2 @@
+# EFI-Machinist-MR9A-Pro-Max-XEON-E5-2696-V3-RX6600M
+EFI - Machinist - MR9A Pro Max - XEON E5 2696 V3 - RX6600M

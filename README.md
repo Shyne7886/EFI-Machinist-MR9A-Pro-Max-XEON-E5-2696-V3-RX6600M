@@ -10,7 +10,7 @@ GPU: AMD Radeon RX 6600M 8GB GDDR6
 
 Audio: Realtek ALC897 codec
 
-LAN: Realtek's Gigabit Ethernet
+LAN: Realtek's RTL8111 Gigabit Ethernet
 
 SMBIOS: iMacPro1,1
 

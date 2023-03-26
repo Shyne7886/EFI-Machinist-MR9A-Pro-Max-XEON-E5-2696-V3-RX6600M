@@ -1,5 +1,3 @@
-EFI-Machinist-MR9A-Pro-Max-XEON-E5-2696-V3-RX6600M
-
 Platform: Desktop | Intel X99
 
 Motherboard: Machinist MR9A Pro Max

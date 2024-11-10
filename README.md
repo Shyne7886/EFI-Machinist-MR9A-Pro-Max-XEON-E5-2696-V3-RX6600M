@@ -12,14 +12,18 @@ LAN: Realtek's RTL8111 Gigabit Ethernet
 
 SMBIOS: iMacPro1,1
 
-macOS: MacOs Ventura 13.2.1 (compatible with previous versions, if needed, by adjusting the config.plist file)
-Opencore: 0.9.0
+macOS: MacOs Sonoma/Sequoia (compatible with previous versions, if needed, by adjusting the config.plist file)
+Opencore: 1.0.2
 
-USB Type-A 2.0 and 3.0 ports fully mapped and ready to use with macOS Ventura (or older).
-If you use a Fenvi HB1200 (or other compatible WiFi card), you'll need to map its Internal Bluetooth usb port.
+USB ports fully mapped.
+  - I recommend you remap them, as USB controllers boards may be different.
+  - Also if you use a Fenvi HB1200 or other compatible Broadcom WiFi card, you'll to map its USB internal port.
 
 Need to generate your own SMBIOS for serial numbers, because those lines are XXXXXXXX'd in the config.plist
 
 ^^ Enjoy 😎🤙 ^^
 
 Shyne
+
+#### PROPS TO GABRIEL LUCHINA from UNIVERSO HACKINTOSH ####
+https://github.com/luchina-gabriel/luchina-gabriel

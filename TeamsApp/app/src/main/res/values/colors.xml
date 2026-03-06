@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Microsoft Teams brand colors -->
+    <color name="teams_purple">#6264A7</color>
+    <color name="teams_purple_dark">#464775</color>
+    <color name="teams_blue">#106EBE</color>
+    <color name="teams_bg">#F5F5F5</color>
+    <color name="teams_text_primary">#201F1E</color>
+    <color name="teams_text_secondary">#605E5C</color>
+
+    <!-- System bar colors -->
+    <color name="status_bar_color">#464775</color>
+</resources>

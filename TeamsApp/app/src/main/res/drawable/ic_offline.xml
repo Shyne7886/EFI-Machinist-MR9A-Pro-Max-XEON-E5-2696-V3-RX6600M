@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple "wifi-off" vector icon for the offline screen -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Diagonal strike-through line -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M1,1 L23,23" />
+
+    <!-- Wifi arc 3 (outermost) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M5,12.55 A11,11 0,0,1 19,12.55" />
+
+    <!-- Wifi arc 2 -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M7.5,15.5 A7,7 0,0,1 16.5,15.5" />
+
+    <!-- Wifi arc 1 (innermost) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#9E9E9E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M10.5,18.5 A3,3 0,0,1 13.5,18.5" />
+
+    <!-- Dot -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M12,20 m-1,0 a1,1 0,1,0 2,0 a1,1 0,1,0 -2,0" />
+
+</vector>
